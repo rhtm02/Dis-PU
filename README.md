@@ -33,3 +33,8 @@ https://arxiv.org/abs/2106.04779
 
 **Model Prediction**  
 ![ex_screenshot](./imgs/cat_predict.png)
+
+# Acknowledgement
+This repo is heavily built on Point Transformer code.
+
+https://github.com/POSTECH-CVLab/point-transformer
